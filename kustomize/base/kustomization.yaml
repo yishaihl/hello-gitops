@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: yishaihl32/hello-gitops
-  newTag: 2af69079645e2fcb3e09ccaba87e9a932d596404
+  newTag: c36a008a958af463f85179948db2ea84505978bb
