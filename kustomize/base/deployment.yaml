@@ -3,6 +3,7 @@ kind: Deployment
 metadata:
   labels:
     app: hello-gitops
+    test: yishai
   name: hello-gitops
 spec:
   replicas: 1
