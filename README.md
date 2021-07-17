@@ -223,3 +223,4 @@ INGRESS_IP=`kubectl -n hello-gitops get ingress -o jsonpath='{.items[0].status.l
 curl $INGRESS_IP
 # Hello from hello-gitops-6f7d4878c9-qg4l6
 ```
+test
